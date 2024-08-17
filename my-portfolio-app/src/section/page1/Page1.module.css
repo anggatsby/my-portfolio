@@ -1,0 +1,123 @@
+
+    .Mdiv{
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: center;
+
+
+        
+
+        .div1{
+
+            h1{
+                font-size: 32px;
+                margin-bottom: 20px;
+                color: #FFA500;
+            }
+
+            h2{
+                font-size: 50px;
+                margin-bottom: 20px;
+                color: white;
+            }
+        
+            span{
+                display: flex;
+                column-gap: 20px;
+                
+                img{
+                    height: 25px;
+                }
+                img:hover{
+                    box-shadow: 0px 5px 100px 5px rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+                }
+            }
+
+            p{  
+                font-family: 'Roboto Mono', monospace;
+                font-size: 16px;
+                font-weight: 300;
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+            
+            .buttondiv{
+                display: flex;
+                column-gap: 15px;
+
+                button{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    height: 55px;
+                }
+
+                .button1{
+                    width: 150px;
+                    border-radius: 15px;
+                    border-style: solid;
+                    border-color: white;
+                    color: white;
+                    background-color: transparent;
+                    cursor: pointer;
+                }
+
+                .button1:hover{
+                    border-color: #FFA500;
+                    color: rgb(0, 0, 0);
+                    background-color: #FFA500;
+                    cursor: pointer;
+                    box-shadow: 0px 5px 100px 5px rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+                }
+
+                .button2{
+                    width: 150px;
+                    border-radius: 15px;
+                    border-style: solid;
+                    border-color: white;
+                    color: white;
+                    background-color: transparent;
+                    cursor: pointer;
+                }
+
+                .button2:hover{
+                    border-color: #FFA500;
+                    color: rgb(0, 0, 0);
+                    background-color: #FFA500;
+                    cursor: pointer;
+                    box-shadow: 0px 5px 100px 5px rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
+                }
+
+            }  
+            .scrollIcon{
+                height: 50px;
+                margin-top: 20px;
+
+            }
+        }
+        .picDiv{
+
+            .pic{
+                margin-bottom: -50px;
+                height: 424px;
+            } 
+
+        }
+
+        
+    }
+
+    .item1{
+        font-size: 35vh;
+        bottom: -70px;
+        white-space: nowrap;
+        color: #ffffff09;
+        width: 100%;
+        font-weight: bold;
+        
+    }
+
+    
+

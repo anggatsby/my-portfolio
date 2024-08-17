@@ -1,0 +1,131 @@
+.sectionHome{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('../../assets/home-bg1.png');
+    background-size: cover; /* Makes the image cover the entire container */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 100%; /* Ensures the container takes full width */
+    height: 100vh;
+    /* background-size: 1900px 100%;
+    background-repeat: no-repeat; */
+
+
+.maindiv{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    h1{
+        margin-top: 200px;
+        font-family: 'Roboto Mono';
+        font-size: 30px;
+        font-weight: 900;
+        color: #451900;
+        
+        .hiIcon{
+            height: 30px;
+            margin-right: 10px;
+        }
+    }
+    h2{
+        font-size: 60px;
+        font-weight: 700;
+        color: #F48C06;
+        font-family: 'Roboto Slab';
+    }
+    p{
+        color: #252422;
+        font-size: 20px;
+        width: 450px;
+        text-align: center;
+        font-family: 'Roboto Mono';
+        margin-bottom: 30px;
+    }
+    .buttonDiv{
+        height: 80px;
+        width: 340px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        
+        
+    button{
+        font-family: 'Roboto Slab';
+        /* font-weight: 600; */
+        font-size: 17px;
+        height: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-style: solid;
+        border-radius: 10px;
+        border-width: 1.5px;
+        border-color: #252422;
+        background-color: #deddcb56;
+        color: #252422;
+    }
+    button:hover{
+        cursor: pointer;
+        /* transform: translate(0, -0.1rem); */
+        transition-duration: 0.2s;
+        border-color: #252422;
+        background-color: #BDB7A7;
+        color: #252422;
+        /* box-shadow: 0px 5px 100px 5px rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19); */
+    }
+    
+    }
+
+    .fbIcon{
+        height: 30px;
+        margin-right: 10px;
+    }
+    .igIcon{
+        height: 30px;
+        margin-right: 10px;
+    }
+    .linkedinIcon{
+        height: 30px;
+        margin-right: 10px;
+    }
+    .githubIcon{
+        height: 30px;
+    }
+
+    .wrapper{
+        bottom: -50px;
+        overflow: hidden;
+        white-space: nowrap;
+        position: relative;
+        width: 100%;
+        height: 300px;
+        background-color: #c0c0c085;
+        align-content: center;
+        
+
+    .item1{
+        display: inline-block;
+        white-space: nowrap;
+        margin-right: 20px;
+
+        img{
+            margin-right: 10px;
+            height: 270px;
+        }
+    }
+    }
+    .skillIcon{
+        margin-top: 5px;
+        height: 45px;
+    }
+}
+
+
+
+
+}
