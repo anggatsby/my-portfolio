@@ -1,9 +1,4 @@
 import styles from './Page1.module.css'
-import profilePic from '../../assets/home-pic.png';
-import twitterIcon from '../../assets/twitter-dark.svg';
-import githubIcon from '../../assets/github-dark.svg';
-import linkedinIcon from '../../assets/linkedin-dark.svg';
-import scrollDown from '../../assets/scroll.png';
 
 import { animate, delay, motion } from "framer-motion" 
 

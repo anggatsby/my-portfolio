@@ -64,7 +64,9 @@
                     border-radius: 10px;
                     border-color: #252422;
                     background-color: #B9B0A2;
+                    box-shadow: -1px 1px 5px #575757;
                     color: #252422;
+                    transition-duration: 0.3s;
                     cursor: pointer;
 
                     .arrowUp{

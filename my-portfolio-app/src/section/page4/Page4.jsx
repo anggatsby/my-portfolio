@@ -44,7 +44,7 @@ function Page4() {
               <img className={styles.folio2} src={folio2} alt="icon6"></img>
             </a>
               <div className={styles.wrapper2}>
-                <h3>Portfolio Website</h3>
+                <h3>Spiderman Website</h3>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet veniam ullam perspiciatis reiciendis quod suscipit.</p>
                 <div className={styles.wrapper3}>
                   <img className={styles.p1} src={p1} alt="icon6"></img>
@@ -63,7 +63,7 @@ function Page4() {
               <img className={styles.folio3} src={folio3} alt="icon6"></img>
             </a>
               <div className={styles.wrapper2}>
-                <h3>Portfolio Website</h3>
+                <h3>Ironman Website</h3>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet veniam ullam perspiciatis reiciendis quod suscipit.</p>
                 <div className={styles.wrapper3}>
                   <img className={styles.p1} src={p1} alt="icon6"></img>
@@ -82,7 +82,7 @@ function Page4() {
               <img className={styles.folio4} src={folio4} alt="icon6"></img>
             </a>
               <div className={styles.wrapper2}>
-                <h3>Portfolio Website</h3>
+                <h3>Black Panther Website</h3>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet veniam ullam perspiciatis reiciendis quod suscipit.</p>
                 <div className={styles.wrapper3}>
                   <img className={styles.p1} src={p1} alt="icon6"></img>
@@ -101,7 +101,7 @@ function Page4() {
               <img className={styles.folio5} src={folio5} alt="icon6"></img>
             </a>
               <div className={styles.wrapper2}>
-                <h3>Portfolio Website</h3>
+                <h3>Batman Website</h3>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet veniam ullam perspiciatis reiciendis quod suscipit.</p>
                 <div className={styles.wrapper3}>
                   <img className={styles.p1} src={p1} alt="icon6"></img>

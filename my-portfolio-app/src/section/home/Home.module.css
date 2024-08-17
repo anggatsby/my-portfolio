@@ -67,6 +67,7 @@
         border-width: 1.5px;
         border-color: #252422;
         background-color: #deddcb56;
+        box-shadow: -1px 1px 8px #888888;
         color: #252422;
     }
     button:hover{

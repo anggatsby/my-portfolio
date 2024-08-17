@@ -5,6 +5,7 @@ import Page2 from './section/page2/Page2';
 import Page3 from './section/page3/Page3';
 import Page4 from './section/page4/Page4';
 import Page5 from './section/page5/Page5';
+import Footer from './section/footer/Footer';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <section><Page3/></section>
       <section><Page4/></section>
       <section><Page5/></section>
+      <section><Footer/></section>
     </>
   );  
 }

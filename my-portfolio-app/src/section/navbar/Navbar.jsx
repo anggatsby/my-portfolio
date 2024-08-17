@@ -1,6 +1,4 @@
 import styles from './Navbar.module.css'
-import MoonIcon from '../../assets/moon.svg';
-import { useEffect } from 'react';
 
 
 
