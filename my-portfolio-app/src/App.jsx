@@ -19,7 +19,7 @@ function App() {
       <section><Page3/></section>
       <section><Page4/></section>
       <section><Page5/></section>
-      <section><Footer/></section>
+      {/* <section><Footer/></section> */}
     </>
   );  
 }

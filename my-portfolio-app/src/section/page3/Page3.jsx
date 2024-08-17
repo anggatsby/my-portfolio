@@ -28,25 +28,25 @@ function Page3() {
                 <p>Initial Meeting</p>
                 <img className={styles.s1} src={s1} alt="icon6"></img>
             </div>
-            <div className={styles.wrapper2}>
-                <h1>02</h1>
-                <p>Agreement & Planning</p>
-                <img className={styles.s2} src={s2} alt="icon6"></img>
-            </div>
-            <div className={styles.wrapper3}>
-                <h1>03</h1>
-                <p>Website Design</p>
-                <img className={styles.s3} src={s3} alt="icon6"></img>
-            </div>
             <div className={styles.wrapper4}>
                 <h1>04</h1>
                 <p>Domain & Hosting Setup</p>
                 <img className={styles.s4} src={s4} alt="icon6"></img>
             </div>
+            <div className={styles.wrapper2}>
+                <h1>02</h1>
+                <p>Agreement & Planning</p>
+                <img className={styles.s2} src={s2} alt="icon6"></img>
+            </div>
             <div className={styles.wrapper5}>
                 <h1>05</h1>
                 <p>Website Development</p>
                 <img className={styles.s5} src={s5} alt="icon6"></img>
+            </div>
+            <div className={styles.wrapper3}>
+                <h1>03</h1>
+                <p>Website Design</p>
+                <img className={styles.s3} src={s3} alt="icon6"></img>
             </div>
             <div className={styles.wrapper6}>
                 <h1>06</h1>

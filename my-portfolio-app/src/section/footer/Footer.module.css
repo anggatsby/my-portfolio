@@ -1,0 +1,5 @@
+.footer{
+    background-color: #1b1816;
+    width: 100%; /* Ensures the container takes full width */
+    height: 300px;
+}
